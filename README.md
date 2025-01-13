@@ -1,7 +1,7 @@
 # Favorite Saying 👍
 
 ```rust
-/// ChainReactor's motto
+/// Chain-Reactor's motto
 struct BillGates;
 
 impl BillGates {
