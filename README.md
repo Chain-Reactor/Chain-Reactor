@@ -1,25 +1,23 @@
-# Favorite Saying 👍
+# Chain-Reactor's motto
 
 ```rust
-/// Chain-Reactor's motto
-struct BillGates;
+struct ElonMusk;
 
-impl BillGates {
-  /// Return Bill Gates quote
+impl ElonMusk {
+  /// Return Elon Musk quote
   fn said(&self) -> &str {
-    "Measuring programming progress by lines of codes \
-    is like measuring aircraft building progress by weight."
+    "Some people don't like change, but you need to embrace change if the alternative is disaster."
   }
 }
 
 fn main() {
-  let bill_gate = BillGate;
+  let elon_musk = ElonMusk;
 
-  println!("Bill Gates - {}", bill_gate.said());
+  println!("Elon Musk - {}", elon_musk.said());
 }
 ```
 
-# GitHub Status ![](https://komarev.com/ghpvc/?username=xfactor-toml&color=blueviolet)
+# GitHub Status ![](https://komarev.com/ghpvc/?username=Chain-Reactor&color=blueviolet)
 
 <div id='profile-them' align='center'>
   <a class='github-status' href='https://github.com/Chain-Reactor'>
@@ -37,3 +35,9 @@ fn main() {
 ![](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)          ![](https://img.shields.io/badge/solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)
 </div>
 
+# Profile Trophies
+
+<div id='profile-them' align='center'>
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Chain-Reactor&theme=dracula&rank=-C,-B,-UNKNOWN&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
