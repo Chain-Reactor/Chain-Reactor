@@ -5,7 +5,6 @@
 - [x] I am sensitive to new technological trends and take pride in contributing to various open projects based on my experience and skills.
 - [x] Unfortunately, many of what I do is not sourced, but feel free to take a look at my public repository here.
 
-
 # Favourite saying
   
 ```rust
